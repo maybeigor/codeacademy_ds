@@ -1,1 +1,11 @@
-Exploring Data with Python
+Data Set : https://openrepair.org/
+
+Using Python, we’ll answer data questions like:
+
+    what kinds of products are brought to these events?
+    how often are these products actually fixed?
+    are more or fewer products being brought to these events over time?
+
+We’ve loaded the first few rows of the dataset in the Learning Environment to the right. Each row, or record, corresponds to a single product brought to a repair club event.
+
+For example, the third row of the dataset indicates that a 2015 Apple phone was brought to a repair club event in Sweden in 2018. While the phone was judged repairable, according to the data it was not fixed at the event.
